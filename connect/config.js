@@ -7,36 +7,36 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
-global.footer = "Deffbotz ~ Deff"
+global.owner = ['6283833694338']
+global.footer = "「ñå†§µ м∂ ೄྀ​᭄」"
 global.fake = "Deffbotz ~ Deff"
-global.namebot = "DEFFBOTZ - DEFF"
-global.packname = "Buatan Siapa? Buatan Daffa\nMau nomor nya? 089501060783\nOrangnya ganteng dan baik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-global.packname2 = "BY Daffa ~ Yudhistira"
-global.author = "Daffa"
-global.email = "dyudhistira51@gmail.com"
-global.game = "Deffbotz Game"
-global.nameown = "©DEFF"
-global.resultwibu = "Nih kak Resultnya, Dasar Wibu"
-global.nameyt = "DEFFBOTZZ"
-global.instagram = "https://instagram.com/deff.xyz"
+global.namebot = "「ñå†§µ м∂ ೄྀ​᭄」"
+global.packname = "𝗕𝗬 𝗡𝗔𝗧𝗦𝗨 𝗠𝗗/n𝗝𝗔𝗡𝗚𝗔𝗡 𝗗𝗜 𝗔𝗠𝗕𝗜𝗟 𝗬𝗔/n𝗡𝗢𝗠𝗘𝗥 +62 838-3369-4338/n​᭄/n♨️/n🌹
+global.packname2 = "「ñå†§µ м∂ ೄྀ​᭄」"
+global.author = "「ñå†§µ м∂ ೄྀ​᭄」"
+global.email = ""
+global.game = "ñå†§µ Game"
+global.nameown = "©ɳαƚʂυ ɱԃ"
+global.resultwibu = "Wibu"
+global.nameyt = ""
+global.instagram = ""
 global.sessionName = "session"
-global.github = "https://github.com/DEFF-Y"
-global.done = "Done :)"
-global.linkgrupss = "https://chat.whatsapp.com/C0y1iHxWw9n8odBcK3Rs5z"
+global.github = "https://github.com/Kianganz1"
+global.done = "𝗗𝗢𝗡𝗘"
+global.linkgrupss = "https://chat.whatsapp.com/LKmbdt3kuu23VmzRZYyUVF"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    linkm: 'Linknya Mana Kak?',
-    ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
+    success: '𝗦𝗨𝗖𝗖𝗘𝗦𝗦',
+    admin: '𝗙𝗜𝗧𝗨𝗥 𝗞𝗛𝗨𝗦𝗨𝗦 𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣!',
+    botAdmin: '𝗕𝗢𝗧 𝗛𝗔𝗥𝗨𝗦 𝗠𝗘𝗡𝗝𝗔𝗗𝗜 𝗔𝗗𝗠𝗜𝗡 𝗧𝗘𝗥𝗟𝗘𝗕𝗜𝗛 𝗗𝗔𝗛𝗨𝗟𝗨!',
+    owner: '𝗙𝗜𝗧𝗨𝗥 𝗞𝗛𝗨𝗦𝗨𝗦 𝗢𝗪𝗡𝗘𝗥 𝗕𝗢𝗧',
+    group: '𝗙𝗜𝗧𝗨𝗥 𝗗𝗜𝗚𝗨𝗡𝗔𝗞𝗔𝗡 𝗛𝗔𝗡𝗬𝗔 𝗨𝗡𝗧𝗨𝗞 𝗚𝗥𝗢𝗨𝗣!',
+    private: '𝗙𝗜𝗧𝗨𝗥 𝗗𝗜𝗚𝗨𝗡𝗔𝗞𝗔𝗡 𝗛𝗔𝗡𝗬𝗔 𝗨𝗡𝗧𝗨𝗞 𝗣𝗥𝗜𝗩𝗔𝗧𝗘 𝗖𝗛𝗔𝗧!',
+    bot: '𝗙𝗜𝗧𝗨𝗥 𝗞𝗛𝗨𝗦𝗨𝗦 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗡𝗢𝗠𝗢𝗥 𝗕𝗢𝗧',
+    wait: '𝗟𝗢𝗔𝗗𝗜𝗡𝗚...',
+    linkm: '𝗟𝗜𝗡𝗞𝗡𝗬𝗔 𝗠𝗔𝗡𝗔 𝗞𝗔𝗞?',
+    ban: '𝗞𝗔𝗠𝗨 𝗧𝗘𝗟𝗔𝗛 𝗗𝗜 𝗕𝗔𝗡𝗡𝗘𝗗'
 }
 global.BerryAwal = 5000
 global.limitAwal= 20
